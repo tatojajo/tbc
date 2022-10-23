@@ -1,0 +1,17 @@
+.valuta{
+    position: absolute;
+    top: 45%;
+    left: 44%;
+}
+#brand-header {
+    height: 65px;
+    background: #00a3e0;
+    top: 30px;
+}
+#logo {
+    width: auto;
+    height: 42px;
+    position: absolute;
+    left: 100;
+    top: 11px;
+}
